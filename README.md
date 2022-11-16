@@ -43,8 +43,8 @@
 <h2>📈 &nbsp;Some Github Stats</h2>
 <span align="left">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAF13&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmed&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
-![top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAF13&layout=compact&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=0xmed&layout=compact&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
