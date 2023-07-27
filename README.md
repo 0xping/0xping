@@ -4,16 +4,16 @@
 
 <p aligh="left">
   <p>Hello there, welcome!</br>
-  I'm Ahmed, a Frontend web developer from 🇲🇦  <b>Morocco</b>.</p>
+  I'm Ahmed, ,<s>a Frontend web developer</s> from 🇲🇦  <b>Morocco</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <b><a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#3178C6" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a></b> and <b> <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a></b>.\
-  🚧 &nbsp;I'm currently working on Upwork as Freelancer .<br>
+  🌱 &nbsp;<s>I'm on track for learning more about <b><a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#3178C6" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a></b> and <b> <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a></b></s>.\
+  🚧 &nbsp;<s>I'm currently working on Upwork as Freelancer </s>.<br>
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
+<h2>👨🏻‍💻 &nbsp;<s>Things I code with</s></h2>
 <p>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
