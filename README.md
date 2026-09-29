@@ -1,6 +1,6 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;Hi, I'm Ahmed
 
-Frontend Engineer from 🇲🇦 **Rabat, Morocco**.
+Software Developer from 🇲🇦 **Rabat, Morocco**.
 
 💻 &nbsp;I build and ship things for the web.<br>
 🤖 &nbsp;Interested in AI workflows.<br>
