@@ -3,7 +3,7 @@
 Frontend Engineer from 🇲🇦 **Rabat, Morocco**.
 
 💻 &nbsp;I build and ship things for the web.<br>
-🤖 &nbsp;Interested in AI workflows. I build with AI every day.<br>
+🤖 &nbsp;Interested in AI workflows.<br>
 🎓 &nbsp;**1337 (42 Network)**: systems work in C and C++, Unix, networking and software engineering fundamentals.<br>
 💬 &nbsp;Open to freelance projects. Reach me on Upwork or by email.
 
